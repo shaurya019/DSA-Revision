@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/count-subarrays-with-sum-equal-to-its-xor-value/
